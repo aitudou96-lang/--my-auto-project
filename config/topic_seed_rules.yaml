@@ -1,0 +1,19 @@
+﻿seed_rules:
+  primary_tracks:
+    - AI赛道
+    - AI小白
+    - 创业者
+    - 智能体变现
+  prioritize_angles:
+    - 小白最容易上手
+    - 创业者最容易看懂
+    - 提效
+    - 赚钱
+    - 获客
+    - 自动化
+    - 现成智能体更省时间
+  deprioritize_angles:
+    - 纯模型更新播报
+    - 炫技型工作流
+    - 纯参数对比
+    - 与商业转化弱相关热点

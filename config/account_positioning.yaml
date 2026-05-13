@@ -1,0 +1,41 @@
+﻿account:
+  name: AI自媒体增长操作系统
+  track: AI
+  target_audience:
+    - ai_beginner
+    - entrepreneur
+    - solopreneur
+    - side_hustler
+  monetization:
+    - 智能体售卖
+    - AI工作流售卖
+    - AI自动化方案
+    - 智能体定制服务
+    - 咨询陪跑与训练营
+  style_rules:
+    - 讲人话
+    - 少术语
+    - 强实操
+    - 强结果导向
+    - 强案例感
+    - 小白看得懂
+    - 创业者能看见商业价值
+  forbidden:
+    - 纯概念空谈
+    - 只有趋势没有方法
+    - 只有方法没有案例
+    - 只有工具推荐没有场景
+    - 过度技术化
+    - 与智能体变现弱相关热点
+    - 洗稿和复刻原作者表达
+  funnel:
+    top:
+      - 吸引AI小白
+      - 吸引创业者
+    middle:
+      - 建立专业信任
+      - 展示实操能力
+    bottom:
+      - 引导咨询
+      - 引导购买智能体
+      - 引导购买自动化方案

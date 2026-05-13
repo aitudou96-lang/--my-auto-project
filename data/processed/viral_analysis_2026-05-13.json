@@ -1,0 +1,36 @@
+﻿[
+  {
+    "platform": "douyin",
+    "link": "internal_seed_sample",
+    "category": "AI小白入门",
+    "audience": "AI小白",
+    "title_structure": "痛点/误区 + 结果承诺 + 场景结论",
+    "hook_3s": "如果你刚开始学 AI，还在乱学工具，这条你先看：AI 小白别乱学，先学哪 3 个最容易出结果",
+    "conflict_point": "用户当前的低效路径与更短结果路径之间的冲突",
+    "emotion_point": "怕落后、怕浪费时间、想快速看见结果",
+    "core_promise": "通过“AI 小白别乱学，先学哪 3 个最容易出结果”让用户更快看见 AI 的实际价值",
+    "narrative_rhythm": "先打误区，再给结论，再给场景，再收行动",
+    "information_density": "中高",
+    "ending_cta": "想少走弯路，先把这类基础场景做起来。",
+    "comments_focus": "是不是小白也能做、适合什么行业、有没有现成方案",
+    "reusable_mechanism": "用具体业务结果解释 AI，而不是只讲工具和概念",
+    "cannot_copy": "不能照搬原句式、不能复刻原作者表达、不能伪造真实案例"
+  },
+  {
+    "platform": "video_channel",
+    "link": "internal_seed_sample",
+    "category": "创业者提效与变现",
+    "audience": "创业者",
+    "title_structure": "痛点/误区 + 结果承诺 + 场景结论",
+    "hook_3s": "如果你是创业者，还在自己低效折腾，这条更值得看：创业者为什么别自己瞎折腾 AI，直接买现成智能体更省时间",
+    "conflict_point": "用户当前的低效路径与更短结果路径之间的冲突",
+    "emotion_point": "怕落后、怕浪费时间、想快速看见结果",
+    "core_promise": "通过“创业者为什么别自己瞎折腾 AI，直接买现成智能体更省时间”让用户更快看见 AI 的实际价值",
+    "narrative_rhythm": "先打误区，再给结论，再给场景，再收行动",
+    "information_density": "中高",
+    "ending_cta": "如果你有明确业务场景，欢迎私信我判断适不适合直接上智能体。",
+    "comments_focus": "是不是小白也能做、适合什么行业、有没有现成方案",
+    "reusable_mechanism": "用具体业务结果解释 AI，而不是只讲工具和概念",
+    "cannot_copy": "不能照搬原句式、不能复刻原作者表达、不能伪造真实案例"
+  }
+]

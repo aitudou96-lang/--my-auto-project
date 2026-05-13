@@ -1,0 +1,30 @@
+﻿platforms:
+  douyin:
+    priority: highest
+    features:
+      - 前3秒强钩子
+      - 节奏快
+      - 强结论
+      - 强利益点
+      - 强反差
+  xiaohongshu:
+    priority: high
+    features:
+      - 体验感
+      - 过程感
+      - 笔记感
+      - 踩坑复盘
+  video_channel:
+    priority: high
+    features:
+      - 稳重
+      - 可信
+      - 商业洞察
+      - 创业者友好
+  bilibili:
+    priority: medium
+    features:
+      - 讲清逻辑
+      - 适合长视频
+      - 系统教程
+      - 案例复盘

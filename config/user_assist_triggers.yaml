@@ -1,0 +1,13 @@
+﻿assist_triggers:
+  - 登录平台
+  - 扫码
+  - 验证码
+  - 平台授权
+  - 风控确认
+  - 补充业务资料
+message_template:
+  current_task: 当前我在做什么
+  why_user_needed: 为什么必须你协助
+  next_step: 你现在要做哪一步
+  reply_format: 你做完后应该回复我什么
+  impact_if_delayed: 如果暂时不做，会影响哪个模块

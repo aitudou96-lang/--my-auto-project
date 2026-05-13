@@ -1,0 +1,62 @@
+﻿[
+  {
+    "platform": "douyin",
+    "account_name": "待补充_抖音竞品1",
+    "handle": "pending_douyin_1",
+    "focus": "AI小白入门",
+    "audience": "AI小白",
+    "priority": "high",
+    "sample_status": "pending_login",
+    "latest_topic_guess": "AI小白入门相关选题待采集",
+    "content_goal_guess": "待登录平台后判断是拉新、信任还是转化",
+    "note": "当前为结构化占位记录，待登录平台后补真实内容。"
+  },
+  {
+    "platform": "douyin",
+    "account_name": "待补充_抖音竞品2",
+    "handle": "pending_douyin_2",
+    "focus": "创业者提效",
+    "audience": "创业者",
+    "priority": "high",
+    "sample_status": "pending_login",
+    "latest_topic_guess": "创业者提效相关选题待采集",
+    "content_goal_guess": "待登录平台后判断是拉新、信任还是转化",
+    "note": "当前为结构化占位记录，待登录平台后补真实内容。"
+  },
+  {
+    "platform": "xiaohongshu",
+    "account_name": "待补充_小红书竞品1",
+    "handle": "pending_xhs_1",
+    "focus": "AI工具实操",
+    "audience": "AI小白",
+    "priority": "medium",
+    "sample_status": "pending_login",
+    "latest_topic_guess": "AI工具实操相关选题待采集",
+    "content_goal_guess": "待登录平台后判断是拉新、信任还是转化",
+    "note": "当前为结构化占位记录，待登录平台后补真实内容。"
+  },
+  {
+    "platform": "video_channel",
+    "account_name": "待补充_视频号竞品1",
+    "handle": "pending_video_1",
+    "focus": "智能体变现",
+    "audience": "创业者",
+    "priority": "high",
+    "sample_status": "pending_login",
+    "latest_topic_guess": "智能体变现相关选题待采集",
+    "content_goal_guess": "待登录平台后判断是拉新、信任还是转化",
+    "note": "当前为结构化占位记录，待登录平台后补真实内容。"
+  },
+  {
+    "platform": "bilibili",
+    "account_name": "待补充_B站竞品1",
+    "handle": "pending_bili_1",
+    "focus": "AI教程拆解",
+    "audience": "AI小白",
+    "priority": "medium",
+    "sample_status": "pending_login",
+    "latest_topic_guess": "AI教程拆解相关选题待采集",
+    "content_goal_guess": "待登录平台后判断是拉新、信任还是转化",
+    "note": "当前为结构化占位记录，待登录平台后补真实内容。"
+  }
+]

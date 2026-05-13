@@ -1,0 +1,20 @@
+﻿{
+  "id": "viral_analysis",
+  "fields": [
+    "platform",
+    "link",
+    "category",
+    "audience",
+    "title_structure",
+    "hook_3s",
+    "conflict_point",
+    "emotion_point",
+    "core_promise",
+    "narrative_rhythm",
+    "information_density",
+    "ending_cta",
+    "comments_focus",
+    "reusable_mechanism",
+    "cannot_copy"
+  ]
+}

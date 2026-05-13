@@ -1,0 +1,17 @@
+﻿scoring:
+  dimensions:
+    heat: 0.20
+    account_fit: 0.20
+    monetization_fit: 0.20
+    explainability: 0.10
+    production_difficulty: 0.10
+    conversion_potential: 0.15
+    urgency: 0.05
+  levels:
+    priority_do_now: 80
+    priority_watch: 60
+    priority_skip: 59
+  tags:
+    - A_拉新流量
+    - B_建立信任
+    - C_转化内容

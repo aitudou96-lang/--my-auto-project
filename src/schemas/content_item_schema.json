@@ -1,0 +1,17 @@
+﻿{
+  "id": "content_item",
+  "fields": [
+    "date",
+    "content_class",
+    "pillar",
+    "topic_name",
+    "target_audience",
+    "why_now",
+    "monetization_link",
+    "platform_priority",
+    "difficulty",
+    "conversion_potential",
+    "score",
+    "status"
+  ]
+}

@@ -1,0 +1,30 @@
+﻿competitor_accounts:
+  douyin:
+    - name: 待补充_抖音竞品1
+      handle: pending_douyin_1
+      focus: AI小白入门
+      audience: AI小白
+      priority: high
+    - name: 待补充_抖音竞品2
+      handle: pending_douyin_2
+      focus: 创业者提效
+      audience: 创业者
+      priority: high
+  xiaohongshu:
+    - name: 待补充_小红书竞品1
+      handle: pending_xhs_1
+      focus: AI工具实操
+      audience: AI小白
+      priority: medium
+  video_channel:
+    - name: 待补充_视频号竞品1
+      handle: pending_video_1
+      focus: 智能体变现
+      audience: 创业者
+      priority: high
+  bilibili:
+    - name: 待补充_B站竞品1
+      handle: pending_bili_1
+      focus: AI教程拆解
+      audience: AI小白
+      priority: medium
