@@ -29,3 +29,31 @@
 - 示例文案包初始化
 - 待用户协助机制设计
 - 内容知识库文件初始化
+## 一键运行
+
+本项目固定根目录：
+
+`E:\Codex位置\New project 2\`
+
+本项目固定使用已验证可用的 Python 解释器：
+
+`E:\Codex位置\New project 2\.venv\Scripts\python.exe`
+
+以后日更运行方式：
+
+- 双击 `run_daily.bat`
+- 或在 PowerShell 中执行：`.\run_daily.ps1`
+
+周复盘运行方式：
+
+- 双击 `run_weekly.bat`
+- 或在 PowerShell 中执行：`.\run_weekly.ps1`
+
+说明：
+
+- `run_daily` 会执行 `src\workflows\daily_run.py`
+- `run_weekly` 会执行 `src\workflows\weekly_review_generator.py`
+- 默认输出到 `outputs\当天日期\`
+- 如需指定日期，可先设置环境变量 `CONTENT_DATE`
+
+
