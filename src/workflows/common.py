@@ -1,6 +1,7 @@
 ﻿from __future__ import annotations
 
 import json
+import os
 from dataclasses import asdict, dataclass
 from datetime import date
 from pathlib import Path
@@ -8,7 +9,7 @@ from typing import Any
 
 
 BASE_DIR = Path(r"E:\Codex位置\New project 2")
-TODAY = str(date.today())
+TODAY = os.environ.get("CONTENT_DATE", str(date.today()))
 
 
 @dataclass
@@ -53,9 +54,16 @@ def ensure_dirs() -> None:
         BASE_DIR / "docs",
         BASE_DIR / "outputs" / TODAY,
         BASE_DIR / "src",
+        BASE_DIR / "src" / "templates",
         BASE_DIR / "src" / "workflows",
     ]:
         path.mkdir(parents=True, exist_ok=True)
+
+
+def read_json(path: Path) -> Any:
+    if not path.exists():
+        return []
+    return json.loads(path.read_text(encoding="utf-8"))
 
 
 def write_json(path: Path, payload: Any) -> None:
